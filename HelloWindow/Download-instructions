@@ -1,5 +1,0 @@
-cd ~/Downloads/glfw-3.4
-mkdir build
-cd build
-cmake .. -DCMAKE_OSX_ARCHITECTURES=arm64 -DBUILD_SHARED_LIBS=OFF -DCMAKE_BUILD_TYPE=Debug
-make
