@@ -1,4 +1,0 @@
-/Users/vaishnavigudimella/Desktop/OpenGl-Practice/HelloWindow/cmake-build-debug/CMakeFiles/HelloWindow.dir
-/Users/vaishnavigudimella/Desktop/OpenGl-Practice/HelloWindow/cmake-build-debug/CMakeFiles/glad.dir
-/Users/vaishnavigudimella/Desktop/OpenGl-Practice/HelloWindow/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/vaishnavigudimella/Desktop/OpenGl-Practice/HelloWindow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
